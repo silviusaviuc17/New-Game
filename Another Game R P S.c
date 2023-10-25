@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <stdbool.h>
-#include <string.h>
+#include <stdlib.h> // mem aloc.
+#include <time.h> //work time
+#include <stdbool.h> //bool tru false
+#include <string.h> // String man.
 
 // Function to get the computer's choice (Rock, Paper, or Scissors)
 char getComputerChoice() {
